@@ -1,1 +1,1 @@
-https://github.com/chrisdlaw
+[GitHub](https://github.com/chrisdlaw)
